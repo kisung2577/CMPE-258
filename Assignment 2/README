@@ -1,8 +1,8 @@
-#Assignment 2a- build chat gpt in colab using gradio and t5xl from huggingface 
+Assignment 2a- build chat gpt in colab using gradio and t5xl from huggingface 
 The assignment is to build chat gpt kind of interface in colab using hugging face check\points of t5xl and gradio interface
 also do summarizaton 
 
-#Assignment 2b - play with advanced tensorflow primitives 
+Assignment 2b - play with advanced tensorflow primitives 
 Showcase 
 scalar vector multiplication
 vector vector multiplications 
@@ -19,7 +19,7 @@ tree qn
 in pytorch and tensorflow and numpy - three colabs
 hint : https://rockt.github.io/2018/04/30/einsumLinks to an external site.
 
-#Assignment 2c - demonstrate various tensor operations 
+Assignment 2c - demonstrate various tensor operations 
 broadcasting,string tensors, sparse tensors, raggedtensors,  named tensors in pytorch and tensorflow
 Hint: https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/guide/tensor.ipynbLinks to an external site.
 Implement the following algorithms in tensorflow
