@@ -82,4 +82,4 @@ This script will return ingredient metrics (F1 and IoU)
 
 **License**
 
-inversecooking is released under MIT license, see [LICENSE]() for details.
+inversecooking is released under MIT license, see [LICENSE](https://github.com/kisung2577/CMPE-258/blob/main/Project/ReceipeGenerationTraining/inversecooking/LICENSE.md) for details.
