@@ -11,7 +11,7 @@ Video
 
 [Paper](https://github.com/kisung2577/CMPE-258/blob/main/Project/Project%20Paper/Project%20Paper.pdf)
 
-Model
+[Model](https://drive.google.com/file/d/1JJasTd43vi6BH-5Okkxsg-6ig-X2J1Up/view?usp=share_link)
 
 Note: the google drive link works only for SJSU email ids
 
