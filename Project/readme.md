@@ -13,3 +13,6 @@ Video
 
 Model
 
+Note: the google drive link works only for SJSU email ids
+
+I added an inference collab to represent all three modules
